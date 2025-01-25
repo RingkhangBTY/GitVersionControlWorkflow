@@ -1,6 +1,4 @@
 print("Hello world")
-
 a = 3
 b = 4
-
-print(a + b)
+print("The sum of",a ,"and",b ,"is =", a + b)
